@@ -4,7 +4,11 @@ A small decoder-only language model with its own byte-level BPE tokenizer, train
 
 PyTorch supplies tensors and autograd. Everything else is written by hand: the tokenizer, the model, the training loop, the fine-tuning pipeline and the sampler. The model is deliberately small. It is a learning project and a working demo, not a competitor to anything.
 
-*What to expect: replies are fluent and usually on topic, but often factually wrong. See Limitations.*
+## Architecture
+
+Here is the flow of the 37M parameter decoder-only model:
+
+![MINI-GPT Architecture](architecture.png)
 
 ## Quickstart
 
