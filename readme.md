@@ -9,7 +9,7 @@ PyTorch supplies tensors and autograd. Everything else is written by hand: the t
 ## Quickstart
 
 You need `tokenizer/owt_reasoning.json` and `checkpoints/sft_final.pt`.
-**[📥 Download weights/sft_final.pt from Releases](https://github.com/Sybereo/MINI-GPT-FROM-SCRATCH/releases)**
+**[📥 Download weights/sft_final.pt from Releases]([https://github.com/Sybereo/MINI-GPT-FROM-SCRATCH/releases](https://github.com/Sybereo/MINI-GPT-FROM-SCRATCH/releases/download/v1/sft_final.pt))**
 
 ```bash
 pip install torch regex numpy
