@@ -10,6 +10,8 @@ Here is the flow of the 37M parameter decoder-only model:
 
 ![MINI-GPT Architecture](architecture.png)
 
+[Direct Testing link](https://sybereo-mini-gpt-chat.hf.space)
+
 ## Quickstart
 
 You need `tokenizer/owt_reasoning.json` and `checkpoints/sft_final.pt`.
